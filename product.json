@@ -1,0 +1,1430 @@
+{
+    "@context": "https://schema.org/",
+    "@type": [
+        "Product",
+        "Book"
+    ],
+    "identifier": "46690144",
+    "url": "https://www.buscalibre.com.ar/libro-palabras-radiantes-el-archivo-de-las-tormentas-2/9788466657549/p/46690144",
+    "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/d8/5f/d85f51614b3767145ca19b306d0d96bf.jpg",
+    "name": "Palabras radiantes (El Archivo de las Tormentas 2)",
+    "sku": "46690144",
+    "description": "Los Caballeros Radiantes deben volver a alzarse.\n\nLos antiguos juramentos por fin se han pronunciado. Los hombres buscan lo que se perdió. Temo que la búsqueda los destruya.\n\nEs la naturaleza de la magia. Un alma rota tiene grietas donde puede colarse algo más. Las potencias, los poderes de la creación misma, pueden abrazar un alma rota, pero también pueden ampliar sus fisuras.\n\nEl Corredor del Viento está perdido en una tierra quebrada, en equilibro entre la venganza y el honor. La Tejedora de Luz, lentamente consumida por su pasado, busca la mentira en la que debe convertirse. El Forjador de Vínculos, nacido en la sangre y la muerte, se esfuerza ahora por reconstruir lo que fue destruido. La Exploradora, a caballo entre los destinos de dos pueblos, se ve obligada a elegir entre una muerte lenta y una terrible traición a todo en lo que cree.\n\nYa es hora de despertarlos, pues acecha la eterna tormenta.\n\nY el asesino ha llegado.",
+    "bookFormat": "https://schema.org/Paperback",
+    "inLanguage": "es",
+    "isbn": "9788466657549",
+    "gtin13": "9788466657549",
+    "author": {
+        "@type": "Person",
+        "url": "https://www.buscalibre.com.ar/libros/autor/brandon-sanderson",
+        "name": "Brandon Sanderson"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "url": "https://www.buscalibre.com.ar/libros/editorial/nova",
+        "name": "NOVA"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-04-09T18:57:56-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "John Dash"
+            },
+            "reviewBody": "Llego hoy en perfecto estado y bastante rápido, la descripción dice que es tapa blanda pero el ISBN  de la descripción del libro es el numero 9788466657549 el cual corresponde al libro tapa dura, decidí pedirlo basándome en esto y efectivamente llego en tapa dura, dejo este comentario por si a alguien puede servirle. Ojo!! Hablo lo que fue mi experiencia en esta compra, puede que llegue en tapa blanda como dice la descripción pero no debería."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-12-02T11:13:14-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "3"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Elizabeth Borga"
+            },
+            "reviewBody": "MUY BELLO PERO ME LLEGO EN TAPA BLANDA"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-11-05T21:31:32-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jorge Tellez"
+            },
+            "reviewBody": "Todo de maravilla. Felicidades y muchas Gracias. \n\nSolo pongan atencion en el ISBN ya que en la descripción pones que es pasta blanda pero en realidad es pasta dura, en este simple cambio e descripción podrían tener mayores ventas por el precio que manejan. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-07-14T15:30:00-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jaime Antonio Zúñiga Garrido"
+            },
+            "reviewBody": "El libro en sí me encanta, el problema es que llegó abollado en algunas partes.\nPero por lo demás, perfecto"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2025-01-16T17:56:46-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Daniel Martinez Luna"
+            },
+            "reviewBody": "Me llegó un poco bien el libro, la solapa tiene raspaduras del papel burbuja y vino algo doblado en una esquina, pese a que lo compré en estado nuevo. Pero vino en tapa dura  y solo el logo de nova en el lomo, por lo que estoy muy contento. Sin embargo, debo decir que fue un riesgo la compra, ya cuando la efectivicé ponía de Origen el país de Uruguay y yo estoy más interesado en las ediciones españolas. Quisiera que hubiera disponibilidad para elegir los paises que disponen el libro, y no esperar que aparezcan al azar en la web. Me frenaron esta y otras tres compras que ya he hecho para comprar libros de Brandon Sanderson, porque deseo unicamente las edisiones españolas y tengo miedo de que me vengan en tapa blanda, porque arruinaría la colección que busco tener. Ojalá buscalibre lea mi comentario, y permita que sus usuarios puedan escoger el origen de sus libros, dependiendo de su disponibilidad en cada bodega de manera global."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-05-26T16:41:09-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ramon Alberto Carranza"
+            },
+            "reviewBody": "El libro es genial. Y llegó en perfectas condiciones y rapido."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-06-29T20:24:04-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Matias alsop"
+            },
+            "reviewBody": "Llegó justo a tiempo, calidad excelente, algún desgaste por el envío pero nada importante. Un libro excelente 100% recomendable"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-05-05T02:56:10-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Eduardo Galaz"
+            },
+            "reviewBody": "Una joya de libro. Tengo en tapa dura los tres primeros tomos y me encanta. \nAunque para lectores fluidos en inglés recomiendo el original, la traducción es muy bonita y es una obra magnífica.\nAmantes de Tolkien, acá está el más legítimo sucesor del maestro."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-06-28T16:04:29-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Isaac Islas"
+            },
+            "reviewBody": "Llegó en perfectas condiciones, el libro es increíble y más con una edición de pasta dura espectacular."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-10-26T10:08:29-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carlos  Corzo"
+            },
+            "reviewBody": "Es de Brandon Sanderson !! no se diga mas un excelente libro "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-11-25T23:39:36-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Christopher Villanueva Zuñiga"
+            },
+            "reviewBody": "Libro en tapa dura con sobrecubierta y marca páginas. Cuenta con una ilustración a color al inicio y al final del libro junto con otras a blanco y negro en el transcurso de la lectura. Llegó dentro del tiempo estimado. Muy feliz con la compra."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-06-05T09:34:06-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Andres Sánchez Bazan"
+            },
+            "reviewBody": "Valio la pena la espera"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-09-27T02:06:57-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "César Alfonseca Meléndez"
+            },
+            "reviewBody": "Excelente"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-02-13T13:36:01-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Santiago Martinez Diaz"
+            },
+            "reviewBody": "el libro es muy bueno y tiene algunos momentos que hacen que a mi parecer sea mejor que el primer, lo único es que me gustaría que tuviera mas capítulos de kaladin "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-01-05T12:51:12-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Yonhatan Espinosa Gómez"
+            },
+            "reviewBody": "No lo he leído pero destaco la calidad del libro. Es en tapa dura a un precio increíble. me encantó la belleza de la edición. Buscalibre es una plataforma sensacional, definitivamente es la mejor opción para comprar libros de primera calidad. !Quedé muy satisfecho!\n"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-05-08T03:29:39-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Benjamin Saez"
+            },
+            "reviewBody": "llego en exelente condiciones y esta muy bueno el libro"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-08-14T14:01:21-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Diego Fabian"
+            },
+            "reviewBody": "\"Una continuación maravillosa, mejor que la entrega anterior. Sin embargo, otra vez encontré otro error en la traducción en una página al igual que en el anterior libro que pedí. Creo que eso ya es un problema externo. Sin embargo, buen servicio y la historia del libro un 11 de 10."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-06-28T22:46:56-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Edgardo Antonio Andrade Rivera"
+            },
+            "reviewBody": "Excelente libro. Llegó en una fantástica calidad"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2025-03-25T19:51:57-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "1"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Yamila Leiva Bravo"
+            },
+            "reviewBody": "Llegó en el tiempo estipulado por ellos. Pero al momento de compra, el catálogo estipulaba que era tapa dura, y me llegó un libro tapa blanda. Igualmente ya corrigieron el catálogo, pude hacer el reclamo y la atención que me dieron fue muy buena. No es un motivo para desconfiar, uso esta página desde hace 4 años y siempre quedo satisfecha con cada compra. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2025-04-02T09:10:10-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Patricia Piccione"
+            },
+            "reviewBody": "Excelente saga. Amo la encuadernación en tapa dura."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-10-17T23:38:14-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "gerardo ortega"
+            },
+            "reviewBody": "El primero es único y bello se centra mucho es situarte y darte info que ni siquiera sabrás en su primera lectura, esta continuacion es un no parar lleno de acción, epicidad, intriga, como conectan los caminos de los protagonista y se crean situaciones únicas  posiblemente de las mejores continuaciones que puede tener un libro. El tercero es Cine."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2025-08-26T15:22:51-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Leonardo Torres Arancibia"
+            },
+            "reviewBody": "Recibí el libro en TAPA DURA, lo cual me parece excelente, porque es el que estaba buscando, la descripción esperaba que cambiara ya que antes decía tapa dura, ahora dice tapa blanda, se vendería mucho mejor conociendo de antemano que versión es. Gente de Santiago arriesguense a comprarlo, vale la pena estas bellas ediciones e historias que el tío Brandon nos tiene preparado."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-05-15T10:05:45-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cristobal Cea Sepulveda"
+            },
+            "reviewBody": "Cumplió con las especificaciones indicadas al momento de la compra, llegando en tapa dura y en perfecto estado."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-03-12T11:34:59-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pablo Larenas"
+            },
+            "reviewBody": "Buenisimo, gran secuela de el camino de los reyes"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-10-03T06:35:47-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alex Bejarano"
+            },
+            "reviewBody": "Llego en óptimas condiciones, un libro precioso y potente. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-04-16T22:36:43-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Millaray  Plaza"
+            },
+            "reviewBody": "Me llegó en muy buen estado!! "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-03-30T09:14:34-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jose Julian Gonzalez Zuluaga"
+            },
+            "reviewBody": "Excelente"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-03-23T17:10:23-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nayaret Urriaga Vegas"
+            },
+            "reviewBody": "Me llegó en tapa dura. Es hermoso.\n\nMerecidísima la calificación que tiene en esta plataforma. Ningún capítulo se me hizo pesado, y me encantó cómo interactuaron los personajes principales entre sí.\n\nGracias Adolin. Sólo eso diré."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-12-29T12:14:07-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fredy Moncada"
+            },
+            "reviewBody": "me llego en tapa dura y en excelentes condiciones."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-01-19T10:05:54-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Hans Marin"
+            },
+            "reviewBody": "Excelente libro, llegó en buena calidad."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-01-17T17:46:09-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Heriberto  Gutierrez"
+            },
+            "reviewBody": "Llego en excelentes condiciones y a un precio muy bueno."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-12-21T11:09:43-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Kevin Sosa Andrade"
+            },
+            "reviewBody": "Recién voy a empezar a leerlo. Pero si el pedido me llego en buen estado y a tiempo. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-11-04T08:44:09-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Iliana  García"
+            },
+            "reviewBody": "Llegó en buen estado. Aún no lo he leído."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2026-07-28T22:34:57-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Andres Jimenez"
+            },
+            "reviewBody": "Excelente edición "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2026-06-12T19:10:33-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Manuel Rivas"
+            },
+            "reviewBody": "Llegó en tiempo y forma. Esperaba la versión tapa dura, pero por disponibilidad llegó la que es tapa blanda.\nIgualmente encantado con el libro."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2026-02-27T10:51:58-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Luis Ybañez"
+            },
+            "reviewBody": "Me encanta estube esperando varios días por este libro y es buenísimo para el que le gustó el primer libro lo único malo es que me llegó en tapa blanda y en la publicación dice tapa dura "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2026-01-29T08:34:48-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "santiago herazo morelo"
+            },
+            "reviewBody": "Muy buen libro en tapa dura"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2025-09-30T22:20:53-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "vale yañez"
+            },
+            "reviewBody": "Hermosa edición tapa dura. Aun no lo leo pero se que Brandon Sanderson no falla. El empaque pudo ser con mas cuidado ya que el libro llego golpeado."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2025-06-28T15:24:02-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "YO ME"
+            },
+            "reviewBody": "El libro llegó en perfecto estado y muy rápido. La encuadernación es Tapa Dura. Muy buen servicio por parte de buscalibre. Muy recomendado."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2025-06-08T13:29:03-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "javi ruh"
+            },
+            "reviewBody": "Muy feliz con el libro! llego en el tiempo esperado, en Tapa dura y para que hablar del libro, espectacular… solo un detalle que llego con un pequeño golpe"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2025-04-02T10:17:17-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Manuel Lozada"
+            },
+            "reviewBody": "Excelente libro"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-12-01T12:34:06-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Diego Ignacio Tazzioli"
+            },
+            "reviewBody": "Hermoso libro. Edición tapa dura gran calidad de papel y De impresion. La impresión de las ilustraciones también sobresalen\nLlego en perfecto estado y Enel tiempo programado. Muchas gracias "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-11-01T10:47:03-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Vicente Barria"
+            },
+            "reviewBody": "Muy bueno, llegó con pequeños retoques pero la calidad en general es excelente. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-09-22T16:55:18-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Iker Villalobos"
+            },
+            "reviewBody": "Hermosa edición y el libro está genial, 10/10"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-07-21T15:02:52-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Valentina Gamboa"
+            },
+            "reviewBody": "Una edición muy bonita, tapa dura, tiene cinta marcapáginas. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-07-08T05:40:08-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Daniel Andrés García Zapata"
+            },
+            "reviewBody": "Llego en buen estado y el contenido es maravilloso"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-07-05T09:24:28-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Luis Estrada"
+            },
+            "reviewBody": "Llegó en tapa dura y muy rápido. Voy por la mitad del libro y es muy bueno."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-06-23T11:20:26-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Constanza Andrade"
+            },
+            "reviewBody": "Llego en perfecto estado, pero después de unos días se le salió la cinta para marcar la página."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2024-05-20T11:54:30-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Felipe berrios"
+            },
+            "reviewBody": "Continuación de El Camino de Los Reyes, si te gusto el primero, este te va a dejar con la boca abierta y babeando de ansia por mas."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-12-19T08:29:32-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Omar Duque"
+            },
+            "reviewBody": "10/10 buscalibre siempre cumple con los horarios de entrega y sus increíbles precios"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-12-26T05:19:14-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Luis Roberto Servin"
+            },
+            "reviewBody": "Llego bien, en tiempo y forma. Muy feliz con mi compra! Gracias Buscalibre! :)"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-11-11T17:26:33-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Francypanxo Xd"
+            },
+            "reviewBody": "Libro llegó en buen estado y al tiempo establecido "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2019-08-12T07:01:10-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Claudio Andrés Bustamante Gambotto"
+            },
+            "reviewBody": "Muy bien libro de una excelente saga .\nTotalmente recomendable "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-09-24T12:48:51-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Tomás Alonso Péndola Rojas"
+            },
+            "reviewBody": "Excelente, llego el libro en buenas condiciones y una semana antes de lo previsto"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-09-20T22:03:35-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Franco Cropalati"
+            },
+            "reviewBody": "Muy buen libro. Calidad de Brandon Sanderson."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-05-14T09:34:33-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Rodrigo Becerra"
+            },
+            "reviewBody": "El libro está en perfecto estado, no tiene ningún detalle físico, en sí está perfecto, no hubo ningún problema para recogerlo. El único detalle esque lo pedí para que llegara a mi domicilio y tuve que ir por el a la paquetería, pero fuera de eso estuvo perfecto. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-05-04T14:43:16-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Claudio Morales"
+            },
+            "reviewBody": "muy buen libro, segunda entrega de sanderson del camino de los reyes.....excelente...."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-05-04T13:07:55-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pablo Dominguez"
+            },
+            "reviewBody": "Llego en los tiempos estimados y sin inconvenientes"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-04-01T09:22:18-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alejandro Visona"
+            },
+            "reviewBody": "excelente"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-03-30T12:15:51-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gonzalo Bravo Acevedo"
+            },
+            "reviewBody": "todo estuvo ok como siempre"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-03-12T12:15:52-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "July Carolina Ospina Betancur"
+            },
+            "reviewBody": "Muy buen libro."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2019-12-31T15:39:32-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Luisa Fernanda Hernández Castillo"
+            },
+            "reviewBody": "Llegó en perfectas condiciones!! Tomó un poco más del tiempo estimado, pero valió la pena! "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2019-12-30T07:32:38-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fer Ramos"
+            },
+            "reviewBody": "Llego en tiempo estipulado y excelente condiciones recomendable "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2019-12-17T10:45:24-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cristian Monsalve Ocampo"
+            },
+            "reviewBody": "Es una edición preciosa, gracias por ponerlas a nuestro alcance. El envío estuvo bien y llegó en excelentes condiciones. :) "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-10-15T19:28:31-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Valentina Sanchez"
+            },
+            "reviewBody": "Envío rápido y en buenas condiciones"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2019-07-20T09:54:45-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carolina Gutiérrez Muñoz"
+            },
+            "reviewBody": "Excelente calidad del libro. Recibí el libro dentro del plazo. 100 % recomendable. Gracias. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2019-04-23T14:35:28-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "patricio peralta"
+            },
+            "reviewBody": "todo muy bien , llego en 6 días sin problemas"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2019-02-18T16:05:33-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Johan  Andrianoff"
+            },
+            "reviewBody": "Excelente, llegó muy rápido, en excelentes condiciones"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2018-10-18T15:18:26-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Josue Mora"
+            },
+            "reviewBody": "Excelente edición de tapa dura! Y la entrega sin problemas"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2018-10-18T09:59:51-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Leslie Toloza"
+            },
+            "reviewBody": "Llegó en el tiempo indicado en perfectas condiciones."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2018-08-09T18:35:24-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carolina Montenegro"
+            },
+            "reviewBody": "Llegó en excelente estado"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2018-07-05T00:09:09-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Angel Toloza"
+            },
+            "reviewBody": "Todo perfecto "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2017-10-26T09:56:20-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Javier Rena"
+            },
+            "reviewBody": "El libro llego en estado optimo, y en el plazo acordado de tiempo, asi que muy contento con el servicio, muchas gracias!"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2017-09-14T07:41:45-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Milton Iglesias"
+            },
+            "reviewBody": "Llegó en perfecto estado y en el tiempo convenido."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2017-02-15T13:26:51-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Yvonne Ronc"
+            },
+            "reviewBody": "llego sano y salvo, gracias espero el resto de la saga. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-10-21T18:00:06-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Valentin Magnasco"
+            },
+            "reviewBody": "Excelente libro! Super recomendado. Sanderson es Dios."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-12-19T20:05:40-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ariel Tremun Rupailaf"
+            },
+            "reviewBody": "Llego muy bien "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2017-02-08T16:18:49-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Carlos Villanueva"
+            },
+            "reviewBody": "Entrega perfecta, sin ningún tipo de problema ni inconveniente. Puntuales en la entrega. Un gusto comprar con ustedes."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-12-16T09:21:50-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Gonzalo Lopez"
+            },
+            "reviewBody": "El ibro llego en perfectas condiciones y en el tiempo acordado. Fantastico todo"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-11-10T15:34:11-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Javiera Sánchez"
+            },
+            "reviewBody": "Amo a Brandon Sanderson y este libro cumplió todas mis expectativas, no importa lo extenso que son estos libros, es que son muy buenos."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-10-25T17:33:16-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "juan ignacio contreras valenzuela"
+            },
+            "reviewBody": "llegó en excelentes condiciones "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-09-17T21:31:14-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Andrea Melissa Arias Espinoza"
+            },
+            "reviewBody": "Llegó en perfectas condiciones y en la fecha indicada."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-07-19T20:15:01-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Joana Abzueta"
+            },
+            "reviewBody": "llego bien en perfecto estado"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-02-15T09:02:47-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alejandro Tavera Arcila"
+            },
+            "reviewBody": "El servicio de ustedes es lo mejor que he encontrado en internet, gracias por el buen cumplimiento y la responsabilidad con los envíos."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-01-31T18:19:16-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Dafne Diaz"
+            },
+            "reviewBody": "La tapa dura es preciosa, me encanta que incluya una cinta como marcapáginas, el papel es suave, las ilustraciones de la contracubierta son hermosas como siempre. Este libro vale cada peso que pagué por él, uno de los más regios que tengo en mi librero. Lo recomiendo 100%. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-01-18T15:00:42-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Janet  Jamett"
+            },
+            "reviewBody": "100% recomendado.. Llego antes del tiempo  estimado "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-12-24T08:12:14-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pablo Ignacio"
+            },
+            "reviewBody": "Llegó con un par de hojas dobladas, por lo demás todo bien :)"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-12-15T09:37:35-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Cynthia Cornejo"
+            },
+            "reviewBody": "Es un libro espectacular en una edición hermosa, el único problema es que venia con un desgaste en la sobrecubierta pero nada grave."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-12-09T11:29:06-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jose Romero"
+            },
+            "reviewBody": "llego a tiempo y en perfectas condiciones "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2020-10-23T15:52:31-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fernando Patricio Ríos Valenzuela"
+            },
+            "reviewBody": "libro excelente, llego en perfecto estado."
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-12-21T01:10:48-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Annie Elizabeth Perez Gutierrez"
+            },
+            "reviewBody": "llegó muy bien"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-05-02T08:17:30-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Alejandro Arteaga"
+            },
+            "reviewBody": "Llego en excelentes condiciones y antes de lo previsto, muchas gracias por tan buen servicio"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2023-01-12T14:40:30-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Natalia  Gomez"
+            },
+            "reviewBody": "El libro llegó en perfectas condiciones y en tapa dura"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2025-06-27T15:48:49-04:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "1"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Priscilla Cortez"
+            },
+            "reviewBody": "Pedí tapa BLANDA para poder tener comodidad al leer... Y me los enviaron TAPA DURA "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-12-17T17:47:06-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Anónimo"
+            },
+            "reviewBody": "El libro es increíble, la tapa dura es hermosa aún que vino un poco anillado pero se entiende por el viaje"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-02-24T11:31:05-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nicolas Rojas"
+            },
+            "reviewBody": "Simplemente brillante. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-02-16T09:27:57-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "3"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Jose Andres Linares Diaz"
+            },
+            "reviewBody": "Sanderson es un buen escritor, muy bueno. Sin embargo, en mi opinión no hace un buen manejos de la tensión en las historias. Palabras radiantes es un libro lento y \"estirado\" en sus primeras 350 páginas; algo similar a lo que me ocurrió al leer \"El camino de los reyes\". Sin embargo, en el caso \"Palabras radiantes\", esperaba que el escritor fuera un poco más rápido ya que tenía los personajes plasmados y el world building hecho.\nMe equivoqué. Creo que este es el ultimo libro de la saga que leo, pero uno nunca sabe. Después de todo recién voy por la mitad. "
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2021-11-15T12:39:41-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Lautaro Alonso"
+            },
+            "reviewBody": "Ya me leí los 4 libros que estan disponible de esta saga, y sin lugar a dudas es la mejor obra maestra de Brandon, si alguien quiere hablar de los libros hablenme al ig(lautaro_alonso_) y así hacemos teorías del 5to"
+        },
+        {
+            "@type": "Review",
+            "inLanguage": "es",
+            "datePublished": "2022-03-08T08:59:08-03:00",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Nicolas Ariel Martin"
+            },
+            "reviewBody": "Excelente!"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.78,
+        "reviewCount": 99,
+        "ratingCount": 99
+    },
+    "offers": [
+        {
+            "@type": "Offer",
+            "priceCurrency": "ARS",
+            "price": "57599.00",
+            "itemCondition": "http://schema.org/NewCondition",
+            "availability": "http://schema.org/InStock"
+        }
+    ]
+}
