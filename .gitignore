@@ -250,3 +250,8 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows,linux
 input/
 output/
+
+# Local scrape artifacts
+discovery.html
+pdp.html
+product.json
