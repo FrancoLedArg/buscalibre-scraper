@@ -166,9 +166,42 @@ class PDP:
 
     def _parse_publisher(self, index, publisher):
         try:
-            pass
+            self._logger.info(f"Parsing publisher for product: {index}")
+            if publisher is None:
+                return None
+
+            publisher_url = publisher.get("url", None)
+            publisher_name = publisher.get("name", None)
+
+            return publisher_url, publisher_name
+
         except Exception as e:
             self._logger.error(f"There was an error parsing the publisher for the product {index}. Error {e}")
+
+    def _parse_reviews(self, index, reviews):
+        try:
+            self._logger.info(f"Parsing reviews for product: {index}")
+            parsed = []
+
+            for r in reviews:
+                language = r.get("inLanguage", None)
+                date_published = r.get("datePublished", None)
+                rating = r.get("reviewRating", None).get("ratingValue", None)
+                review_body = r.get("reviewBody", None)
+                author = r.get("author", None).get("name", None)
+
+                parsed.append({
+                    "language": language,
+                    "date_published": date_published,
+                    "rating": rating,
+                    "review_body": review_body,
+                    "author": author,
+                })
+
+            return parsed
+
+        except Exception as e:
+            self._logger.error(f"There was an error parsing the reviews for the product {index}. Error {e}")
 
     def _search_nodes(self, index, tree, xpath):
         try:
@@ -187,38 +220,6 @@ class PDP:
             self._logger.error(f"There was an error parsing the translator for the product {index}. Error: {e}")
     
     def _parse_product_data(self, index, tree):
-        '''
-        data to extract:
-
-        # contenido
-        description
-        author
-        translator
-        publisher
-        collection
-        language
-
-        # edición / formato
-        format              # Libro Físico
-        binding             # Tapa Blanda
-        pages
-        year
-        edition
-        published_in        # Editado en (España)
-        dimensions
-        weight
-
-        # comercialización
-        currency
-        base_price
-        offer_price
-        availability
-        categories
-
-        # opcional
-        rating
-        review_count
-        '''
         try:
             self._logger.info(f"Starting the data parsing for product: {index}")
 
@@ -229,6 +230,30 @@ class PDP:
             author_url, author_name = self._parse_author(index, script.get("author", None))
             translator_url = self._search_nodes(index, "//div[@id='metadata-Traducido por']//a[contains(@class, 'primary')]/@href")
             translator_name = self._search_nodes(index, "//div[@id='metadata-Traducido por']//a[contains(@class, 'primary')]/text()")
+            publisher_url, publisher_name = self._parse_publisher(index, script.get("publisher", None))
+            collection = self._search_nodes(index, "//div[@id='metadata-colección']/text()")
+            language = self._search_nodes(index, "//div[@id='metadata-idioma']/text()")
+
+            # Edition / Format
+            format = self._search_nodes(index, "//div[contains(@class, 'ficha')]//div[contains(@class, 'row')][.//div[normalize-space()='Formato']]//div[contains(@class, 'col-xs-7')]/div/text()")
+            binding = self._search_nodes(index, "//div[@id='metadata-encuadernación']/text()")
+            pages = self._search_nodes(index, "//div[contains(@class, 'metadata-número páginas')]/text()")
+            year = self._search_nodes(index, "//div[contains(@class, 'metadata-ano')]/text()")
+            published_at = self._search_nodes(index, "//div[contains(@class, 'metadata-isbn-pais')]/text()")
+            dimensions = self._search_nodes(index, "//div[contains(@class, 'metadata-dimensiones')]/text()")
+            weight = self._search_nodes(index, "//div[contains(@class, 'metadata-peso')]/text()")
+
+            # Commercialization
+            currency = script.get("offers", None)[0].get("priceCurrency", None)
+            base_price = self._search_nodes(index, "//span[contains(@class, 'pvp')]/text()")
+            offer_price = script.get("offers", None)[0].get("price", None)
+            categories = self._search_nodes(index, "//div[@id='metadata-categorías']//a/text()")
+
+            # Reviews
+            rating = script.get("aggregateRating", None).get("ratingValue", None)
+            review_count = script.get("aggregateRating", None).get("reviewCount", None)
+            reviews = self._parse_reviews(index, script.get("review", None))
+
 
             return {
                 # Identity
@@ -245,11 +270,30 @@ class PDP:
                 "author_name": author_name,
                 "translator_url": translator_url,
                 "translator_name": translator_name,
-                "publisher_url": 
+                "publisher_url": publisher_url,
+                "publisher_name": publisher_name,
+                "collection": collection,
+                "language": language,
 
-                
+                # Edition / Format
+                "format": format,
+                "binding": binding,
+                "pages": pages,
+                "year": year,
+                "published_at": published_at,
+                "dimensions": dimensions,
+                "weight": weight,
 
+                # Commercialization
+                "currency": currency,
+                "base_price": base_price,
+                "offer_price": offer_price,
+                "categories": categories,
 
+                # Reviews
+                "rating": rating,
+                "review_count": review_count,
+                "reviews": reviews,
             }
         except Exception as e:
             self._logger.error(f"There was an error parsing data for product {index}. Error: {e}")
